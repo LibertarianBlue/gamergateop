@@ -1,0 +1,1 @@
+A small note:  if you follow the tracebacks in the Google Groups thread, you can backreference to deduce who has been deleting their messages.  So far, I've been able to identify one person this way:  Kaitlin Tremblay.  What do they have to hide?

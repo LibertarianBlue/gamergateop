@@ -1,0 +1,164 @@
+[Adblock Plus 1.1]
+! Version: 201411111800
+! Title: GamerGate
+! Last modified: 11 Nov 2014 18:00 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://v.gd/B30NCs
+! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+!
+! Send corrections, suggestions, and death threats to GamerGate at boun dot cr.
+!
+!---------------------Video Game News/Review/Opinion Sites---------------------!
+||kotaku.com^
+||www.kotaku.co.uk^
+||www.kotaku.com.au^
+||www.kotaku.com.br^
+||www.kotaku.jp^
+||www.polygon.com^
+||www.destructoid.com^
+||www.rockpapershotgun.com^
+||www.giantbomb.com^
+||motherboard.vice.com^
+||www.ign.com^
+||uk.ign.com^
+||de.ign.com^
+||au.ign.com^
+||ap.ign.com^
+||world.ign.com^
+||www.gamespot.com^
+||www.gamespot.com.au^
+||www.gamespotasia.com^
+||www.gamasutra.com^
+||www.gameranx.com^
+||www.pcgamer.com^
+||www.oxmonline.com^
+||www.totalxbox.com^
+||games.on.net^
+||www.ausgamers.com^
+||www.gameplanet.co.nz^
+||borderhouseblog.com^
+||www.gamegatenews.com^
+||www.mangotron.com^
+||www.biglistofgamers.com^
+||www.shacknews.com^
+!-------------------------IT News/Review/Opinion Sites-------------------------!
+||gizmodo.com^
+||www.gizmodo.co.uk^
+||www.gizmodo.in^
+||www.gizmodo.com.au^
+||gizmodo.uol.com.br^
+||www.gizmodo.jp^
+||www.pcauthority.com.au^
+||techcrunch.com^
+||arstechnica.com^
+!------------Geek/Pop/Contemporary Culture News/Review/Opinion Sites-----------!
+||www.vice.com^
+||www.dailydot.com^
+||badassdigest.com^
+||www.thedailybeast.com^
+||newmediarockstars.com^
+||www.rawstory.com^
+||geekparty.com^
+||www.themarysue.com^
+||www.salon.com^
+||www.buzzfeed.com^
+||uproxx.com^
+||comicsalliance.com^
+||www.pastemagazine.com^
+||www.wired.com^
+||www.newyorker.com^
+||www.cracked.com^
+||mic.com^
+||www.xojane.com^
+||www.theverge.com^
+||www.jacobinmag.com^
+||thenewinquiry.com^
+||boingboing.net^
+||www.newstatesman.com^
+!---------------------------Art/Design/Webcomic Sites--------------------------!
+||syacartoonist.com^
+||andysartworks.com^
+||tompreston.deviantart.com^
+!-------------------------Other Special Interest Sites-------------------------!
+||gawker.com^
+||valleywag.gawker.com^
+||defamer.gawker.com^
+||jezebel.com^
+||lifehacker.com^
+||www.lifehacker.co.uk^
+||www.lifehacker.co.in^
+||www.lifehacker.com.au^
+||www.lifehacker.jp^
+||deadspin.com^
+||screamer.deadspin.com^
+||theconcourse.deadspin.com^
+||io9.com^
+||sploid.gizmodo.com^
+||jalopnik.com^
+||truckyeah.jalopnik.com^
+||cink.hu^
+||www.doctornerdlove.com^
+||rationalwiki.org^
+||tvtropes.org^
+!-----------------------------Forum/Community Sites----------------------------!
+||www.neogaf.com^
+||www.somethingawful.com^
+||www.rllmukforum.com^
+||www.4chan.org^
+||boards.4chan.org^
+!------------------------------Vloggers/Streamers------------------------------!
+||www.youtube.com/user/moviebob
+!----------------------------------Podcasters----------------------------------!
+||www.idlethumbs.net/idlethumbs
+||itunes.apple.com/podcast/idle-thumbs
+!----------------------------Web App/SaaS Providers----------------------------!
+||github.com^
+||gist.github.com^
+||help.github.com^
+||developer.github.com^
+||pages.github.com^
+||github.io^
+||try.github.io^
+||bitbucket.org^
+||code.google.com^
+||gitlab.com^
+||about.gitlab.com^
+||contributors.gitlab.com^
+||feedback.gitlab.com^
+||demo.gitlab.com^
+||doc.gitlab.com^
+!-----------------------Video Game Developers/Publishers-----------------------!
+||loveshackentertainment.com^
+||polytroncorporation.com^
+||fullbright.company^
+||fullbrig.ht^
+||blog.fullbrig.ht^
+||auntiepixelante.com^
+!----------------------------PR/Ad/Creative Agencies---------------------------!
+||silverstringmedia.com^
+||agencyforgames.com^
+!---------------------------------Causes/Events--------------------------------!
+||www.rebelgamejam.com^
+||www.paxsite.com^
+||prime.paxsite.com^
+||east.paxsite.com^
+||south.paxsite.com^
+||aus.paxsite.com^
+||auspanels.paxsite.com^
+||dev.paxsite.com^
+||devpanels.paxsite.com^
+||www.childsplaycharity.org^
+||www.igf.com^
+||www.indiecade.com^
+||www.feministfrequency.com^
+||critical-proximity.com^
+||xoxofest.com^
+||www.digra.org^
+||digra2014.eae.utah.edu^
+||www.nordic-digra.org^
+||digrafinland.wordpress.com^
+||digraa.org^
+||||digrajapan.org^
+||digra-j.net^
+||digrastudents.org^
+||todigra.org
